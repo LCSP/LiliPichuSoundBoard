@@ -48,6 +48,74 @@ $("#spin").on("click",function(){
 	var sound = new Howl({src: ['spin.mp3']}).play();
 });
 
+$("#honestly").on("click",function(){
+	var sound = new Howl({src: ['honestly.mp3']}).play();
+});
+
+$("#berry").on("click",function(){
+	var sound = new Howl({src: ['berry.mp3']}).play();
+});
+
+$("#pic").on("click",function(){
+	var sound = new Howl({src: ['pic.mp3']}).play();
+});
+
+$("#ah").on("click",function(){
+	var sound = new Howl({src: ['ah.mp3']}).play();
+});
+
+$("#evilha").on("click",function(){
+	var sound = new Howl({src: ['evilha.mp3']}).play();
+});
+
+$("#yikes2").on("click",function(){
+	var sound = new Howl({src: ['yikes2.mp3']}).play();
+});
+
+$("#cream").on("click",function(){
+	var sound = new Howl({src: ['cream.mp3']}).play();
+});
+
+$("#Pichu").on("click",function(){
+	var sound = new Howl({src: ['pichuu.mp3']}).play();
+});
+
+$("#munimuni").on("click",function(){
+	var sound = new Howl({src: ['munimuni.mp3']}).play();
+});
+
+$("#meanit").on("click",function(){
+	var sound = new Howl({src: ['meainit.mp3']}).play();
+});
+
+$("#hug").on("click",function(){
+	var sound = new Howl({src: ['hug.mp3']}).play();
+});
+
+$("#Pikachu").on("click",function(){
+	var sound = new Howl({src: ['pikachu.mp3']}).play();
+});
+
+$("#listen").on("click",function(){
+	var sound = new Howl({src: ['listen.mp3']}).play();
+});
+
+$("#yikes1").on("click",function(){
+	var sound = new Howl({src: ['yikes1.mp3']}).play();
+});
+
+$("#norha").on("click",function(){
+	var sound = new Howl({src: ['norha.mp3']}).play();
+});
+
+$("#kirby").on("click",function(){
+	var sound = new Howl({src: ['kirby.mp3']}).play();
+});
+
+$("#heh").on("click",function(){
+	var sound = new Howl({src: ['heh.mp3']}).play();
+});
+
 
 
 
