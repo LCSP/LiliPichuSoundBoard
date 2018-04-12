@@ -40,6 +40,10 @@ $("#tired").on("click",function(){
 	var sound = new Howl({src: ['tired.mp3']}).play();
 });
 
+$("#scream").on("click",function(){
+	var sound = new Howl({src: ['scream.mp3']}).play();
+});
+
 
 
 
