@@ -44,6 +44,10 @@ $("#scream").on("click",function(){
 	var sound = new Howl({src: ['scream.mp3']}).play();
 });
 
+$("#spin").on("click",function(){
+	var sound = new Howl({src: ['spin.mp3']}).play();
+});
+
 
 
 
