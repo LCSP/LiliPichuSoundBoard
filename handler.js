@@ -85,7 +85,7 @@ $("#munimuni").on("click",function(){
 });
 
 $("#meanit").on("click",function(){
-	var sound = new Howl({src: ['meainit.mp3']}).play();
+	var sound = new Howl({src: ['meanit.mp3']}).play();
 });
 
 $("#hug").on("click",function(){
