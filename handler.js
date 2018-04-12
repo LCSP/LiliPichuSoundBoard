@@ -116,6 +116,10 @@ $("#heh").on("click",function(){
 	var sound = new Howl({src: ['heh.mp3']}).play();
 });
 
+$("#punch").on("click",function(){
+	var sound = new Howl({src: ['onepunch.mp3']}).play();
+});
+
 
 
 
