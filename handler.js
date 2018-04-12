@@ -120,7 +120,18 @@ $("#punch").on("click",function(){
 	var sound = new Howl({src: ['onepunch.mp3']}).play();
 });
 
+$("#humps").on("click",function(){
+	var sound = new Howl({src: ['humps.mp3']}).play();
+});
 
+$("#notice").on("click",function(){
+	var sound = new Howl({src: ['notice.mp3']}).play();
+});
 
+$("#sacrifice").on("click",function(){
+	var sound = new Howl({src: ['sacrifice.mp3']}).play();
+});
 
-
+$("#smooth").on("click",function(){
+	var sound = new Howl({src: ['smooth.mp3']}).play();
+});
